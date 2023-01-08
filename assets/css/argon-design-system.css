@@ -20394,6 +20394,7 @@ textarea[resize="horizontal"] {
   position: relative;
   padding-top: 4rem;
   padding-bottom: 4rem;
+  height: 100vh;
 }
 
 .section-xl {
@@ -20470,7 +20471,8 @@ textarea[resize="horizontal"] {
 }
 
 .section-shaped .shape-primary {
-  background: linear-gradient(150deg, #281483 15%, #8f6ed5 70%, #d782d9 94%);
+  background: #212529 !important;
+  /*background: linear-gradient(150deg, #281483 15%, #8f6ed5 70%, #d782d9 94%); */
 }
 
 .section-shaped .shape-primary :nth-child(1) {
