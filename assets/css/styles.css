@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;700;900&display=swap');
+
+body{
+	margin: 0;
+	
+	background: #232526;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color: #f7f7f7; /* Cor da fonte, você pode ajustar conforme sua preferência */
+}
+
+.container {
+	color: #f7f7f7; /* Cor da fonte, você pode ajustar conforme sua preferência */
+}
+
+#accew-logo{
+	height: 90vh;
+}
+
+#accew-subtitle{
+	font-weight: 300;
+}
