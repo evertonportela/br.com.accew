@@ -22,4 +22,5 @@ body{
 
 #accew-subtitle{
 	font-weight: 300;
+	flex-wrap: row;
 }
